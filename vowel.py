@@ -18,5 +18,5 @@ def vowel():       # sesli ahrf bulan fonksiyon tanımlıyoruz.
             j+=1                                          # eğer peşpeşe sesli harf yoksa indexi bir artırıp tekrar döngüye
                                                           # devam ediyoruz. 
             sonuc="negative"                              # listenin sonunda hala peşpeşe sesli harf yoksa sonuc negative oluyor.
-    print (sonuc)                                         # sonucu ekrana yazdırıyoruz.
+    print (sonuc)                                         # sonucu ekrana yazdırıyoruz
 vowel()                                                   # tanımladığımız fonksiyonu çalıştırıyoruz.
